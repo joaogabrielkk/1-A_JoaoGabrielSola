@@ -1,14 +1,23 @@
 body {
     background-color: black;
-    color: deeppink;
+    color: black;
 }
  header{
     font-size: 50px;
     border-bottom: 5px green;
-    padding: 50px;
+    padding: 40px;
     text-align: center;
-    color: white;
+    color: greenyellow;
  }
  h1{
-    font-size: 30px;
+    font-size: 25px;
+ }
+ section {
+    background-color: cadetblue;
+    display: flex;
+    justify-content: center;
+ }
+
+.chamada-texto {
+     margin-right: 30px;
  }
